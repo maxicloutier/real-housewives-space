@@ -1,146 +1,164 @@
 [
   {
     "_id": "1006",
-    "name": "Russell",
+    "name": "Luann",
     "friends": ["1007", "1008", "1009"],
-    "avatarUrl": "/images/profile-pics/000001.jpg"
+    "avatarUrl": "/images/profile-pics/luann.jpg"
   },
   {
     "_id": "1007",
-    "name": "Maisy",
-    "friends": ["1006", "1008", "1009"],
-    "avatarUrl": "/images/profile-pics/000002.jpg"
+    "name": "Adrienne",
+    "friends": ["1006", "1008", "1009", "1035"],
+    "avatarUrl": "/images/profile-pics/adrienne.jpg"
   },
   {
     "_id": "1008",
-    "name": "Fletcher",
+    "name": "Camille",
     "friends": ["1006", "1007", "1009"],
-    "avatarUrl": "/images/profile-pics/000003.jpg"
+    "avatarUrl": "/images/profile-pics/camille.jpg"
   },
   {
     "_id": "1009",
-    "name": "Charley",
-    "friends": ["1006", "1008", "1007"],
-    "avatarUrl": "/images/profile-pics/000004.jpg"
+    "name": "Melissa",
+    "friends": ["1006", "1008", "1025"],
+    "avatarUrl": "/images/profile-pics/melissa.jpg"
   },
   {
     "_id": "1013",
-    "name": "Lana",
+    "name": "Erika",
     "friends": ["1014", "1018", "1023"],
-    "avatarUrl": "/images/profile-pics/000005.jpg"
+    "avatarUrl": "/images/profile-pics/erika.jpg"
   },
   {
     "_id": "1014",
-    "name": "Leona",
+    "name": "Meredith",
     "friends": ["1013", "1015", "1016", "1017"],
-    "avatarUrl": "/images/profile-pics/000006.jpg"
+    "avatarUrl": "/images/profile-pics/meredith.jpg"
   },
   {
     "_id": "1015",
-    "name": "Patricia",
+    "name": "Kyle",
     "friends": ["1014", "1016", "1017"],
-    "avatarUrl": "/images/profile-pics/000007.jpg"
+    "avatarUrl": "/images/profile-pics/kyle.jpg"
   },
   {
     "_id": "1016",
-    "name": "Oliver",
+    "name": "Garcelle",
     "friends": ["1014", "1015", "1017"],
-    "avatarUrl": "/images/profile-pics/000008.jpg"
+    "avatarUrl": "/images/profile-pics/garcelle.jpg"
   },
   {
     "_id": "1017",
-    "name": "Harry",
+    "name": "Teresa",
     "friends": ["1014", "1015", "1016"],
-    "avatarUrl": "/images/profile-pics/000009.jpg"
+    "avatarUrl": "/images/profile-pics/teresa.jpg"
   },
   {
     "_id": "1018",
-    "name": "Paolo",
+    "name": "Dorit",
     "friends": ["1013", "1019", "1020", "1021"],
-    "avatarUrl": "/images/profile-pics/000014.jpg"
+    "avatarUrl": "/images/profile-pics/dorit.jpg"
   },
   {
     "_id": "1019",
-    "name": "Jim",
+    "name": "Bethenny",
     "friends": ["1018", "1020", "1021"],
-    "avatarUrl": "/images/profile-pics/000016.jpg"
+    "avatarUrl": "/images/profile-pics/bethenny.jpg"
   },
   {
     "_id": "1020",
-    "name": "Angelo",
-    "friends": ["1019", "1018", "1021"],
-    "avatarUrl": "/images/profile-pics/000017.jpg"
+    "name": "Brandi",
+    "friends": ["1019", "1018", "1021", "1006"],
+    "avatarUrl": "/images/profile-pics/brandi.jpg"
   },
   {
     "_id": "1021",
-    "name": "Lise",
-    "friends": ["1019", "1020", "1018"],
-    "avatarUrl": "/images/profile-pics/000018.jpg"
+    "name": "Lisa V",
+    "friends": ["1019", "1020", "1018", "1026"],
+    "avatarUrl": "/images/profile-pics/lisav.jpg"
   },
   {
     "_id": "1022",
-    "name": "Matilda",
-    "friends": ["1023", "1024", "1025"],
-    "avatarUrl": "/images/profile-pics/000019.jpg"
+    "name": "Nene",
+    "friends": ["1023", "1024", "1025", "1010"],
+    "avatarUrl": "/images/profile-pics/nene.jpg"
   },
   {
     "_id": "1023",
-    "name": "Abby",
-    "friends": ["1013", "1022", "1024", "1025"],
-    "avatarUrl": "/images/profile-pics/000021.jpg"
+    "name": "Danielle",
+    "friends": ["1013", "1022", "1024", "1035"],
+    "avatarUrl": "/images/profile-pics/danielle.jpg"
   },
   {
     "_id": "1024",
-    "name": "Farhan",
-    "friends": ["1023", "1022", "1025"],
-    "avatarUrl": "/images/profile-pics/000023.jpg"
+    "name": "Jen",
+    "friends": ["1023", "1022", "1025", "1030"],
+    "avatarUrl": "/images/profile-pics/jen.jpg"
   },
   {
     "_id": "1025",
-    "name": "Yasin",
-    "friends": ["1023", "1024", "1022"],
-    "avatarUrl": "/images/profile-pics/000026.jpg"
+    "name": "Dorinda",
+    "friends": ["1023", "1024", "1022", "1035"],
+    "avatarUrl": "/images/profile-pics/dorinda.jpg"
   },
   {
     "_id": "1026",
-    "name": "Felix",
-    "friends": ["1027", "1028", "1029"],
-    "avatarUrl": "/images/profile-pics/000027.jpg"
+    "name": "Ramona",
+    "friends": ["1027", "1028", "1029", "1011"],
+    "avatarUrl": "/images/profile-pics/ramona.jpg"
   },
   {
     "_id": "1027",
-    "name": "Amanda",
-    "friends": ["1026", "1028", "1029"],
-    "avatarUrl": "/images/profile-pics/000028.jpg"
+    "name": "Kelly",
+    "friends": ["1026", "1028", "1029", "1016"],
+    "avatarUrl": "/images/profile-pics/kelly.jpg"
   },
   {
     "_id": "1028",
-    "name": "Mitchell",
-    "friends": ["1027", "1026", "1029"],
-    "avatarUrl": "/images/profile-pics/000029.jpg"
+    "name": "Lisa R",
+    "friends": ["1027", "1026", "1029", "1034"],
+    "avatarUrl": "/images/profile-pics/lisar.jpg"
   },
   {
     "_id": "1029",
-    "name": "Kendra",
-    "friends": ["1027", "1028", "1026"],
-    "avatarUrl": "/images/profile-pics/000093.jpg"
+    "name": "Heather",
+    "friends": ["1027", "1028", "1026", "1033"],
+    "avatarUrl": "/images/profile-pics/heather.jpg"
   },
   {
     "_id": "1030",
-    "name": "Eric",
-    "friends": ["1031", "1032"],
-    "avatarUrl": "/images/profile-pics/000094.jpg"
+    "name": "Shannon",
+    "friends": ["1031", "1032", "1027"],
+    "avatarUrl": "/images/profile-pics/shannon.jpg"
   },
   {
     "_id": "1031",
-    "name": "Dani",
-    "friends": ["1030", "1032"],
-    "avatarUrl": "/images/profile-pics/000147.jpg"
+    "name": "Tamra",
+    "friends": ["1030", "1032", "1020"],
+    "avatarUrl": "/images/profile-pics/tamra.jpg"
   },
   {
     "_id": "1032",
-    "name": "Josie",
-    "friends": ["1031", "1030"],
-    "avatarUrl": "/images/profile-pics/000153.jpg"
+    "name": "Vicki",
+    "friends": ["1031", "1030", "1013", "1033"],
+    "avatarUrl": "/images/profile-pics/vicki.jpg"
+  },
+  {
+    "_id": "1033",
+    "name": "Sonja",
+    "friends": ["1031", "1014", "1008", "1009"],
+    "avatarUrl": "/images/profile-pics/sonja.jpg"
+  },
+  {
+    "_id": "1034",
+    "name": "Sutton",
+    "friends": ["1018", "1006", "1010", "1019"],
+    "avatarUrl": "/images/profile-pics/sutton.jpg"
+  },
+  {
+    "_id": "1035",
+    "name": "Christine",
+    "friends": ["1017", "1025", "1034", "1012"],
+    "avatarUrl": "/images/profile-pics/christine.jpg"
   }
 ]

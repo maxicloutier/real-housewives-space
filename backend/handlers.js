@@ -1,5 +1,22 @@
 const { findUser, findUserIndex, sendResponse } = require("./utils");
 
+// POST sign-in
+const handleLogin = (req, res) => {
+  let foundUser;
+  const { userHandle } = req.body;
+
+  res.locals.users.forEach((user) => {
+    if (user.name === userHandle) {
+      foundUser = user;
+    }
+  });
+  if (foundUser) {
+    sendResponse(res, 200, foundUser);
+  } else {
+    sendResponse(res, 400, "user not found");
+  }
+};
+
 // GET all users
 const getUsers = (req, res) => {
   const activeUsers = res.locals.users.filter((user) => !user.deleted);
@@ -107,4 +124,5 @@ module.exports = {
   getUserById,
   handleFriends,
   updateUser,
+  handleLogin,
 };
